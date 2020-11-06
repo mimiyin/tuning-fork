@@ -1,0 +1,25 @@
+{
+  "name": "tuning-fork",
+  "version": "0.0.1",
+  "description": "A way for people to tune themselves against each other.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/mimiyin/tuning-fork"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
